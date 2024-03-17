@@ -2,7 +2,7 @@
 -hello guys 👋🏄<p>
 Lucas Januário -🏄<p>
 Engenheiro de Software Sênior 🍀 <p>
-experiência Ruby, Java, Python, HTML, CSS, JavaScript,  Node.js, React.js e Flutter.
+experiência Ruby, Java, Python, HTML, CSS, JavaScript, React.js e Flutter.
 <p>
 -iso 9000 👨‍💻
  <p>
